@@ -5,7 +5,7 @@
 
 Nous nous plaçons dans le répertoire /home/'utilisateur' pour cloner notre projet.
 * cd /home/'utilisateur'
-* git clone git@rendu-git.etna-alternance.net:module-8034/activity-43945/group-870418 UNI2
+* git clone https://github.com/Stiitchy/Box.git UNI2
 
 Nous installons pip3 afin de pouvoir installer les librairies utilisées dans notre script. 
 `sudo apt install python3-pip`
